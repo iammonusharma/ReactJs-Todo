@@ -38,7 +38,7 @@ const TodoForm=({addTodos})=>{
                 />
                 <InputGroupAddon addonType="prepend">
                 <Button
-                color="success">
+                color="warning">
                 Add Todo
                 </Button>
                 </InputGroupAddon>

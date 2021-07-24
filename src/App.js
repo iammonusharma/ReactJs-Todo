@@ -31,7 +31,7 @@ const App=()=>{
 
   return(
     <Container fluid>
-      <h1>Todo with local storage</h1>
+      <h1>Add Your Todo Here :</h1>
       <Todos todos={todos} markComplete={markComplete}/>
       <TodoForm addTodos={addTodos}/>
     </Container>
